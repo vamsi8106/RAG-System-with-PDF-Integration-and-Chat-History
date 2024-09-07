@@ -23,6 +23,7 @@ This project relies on several Python libraries, which are listed in the `requir
 
    ```bash
    conda create --n rag_env python=3.10
+   ```
    ```bash
    conda activate rag_env
 3. **Install Dependencies**
