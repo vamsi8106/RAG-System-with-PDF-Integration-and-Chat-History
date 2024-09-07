@@ -36,5 +36,5 @@ This project relies on several Python libraries, which are listed in the `requir
    streamlit run app.py
    
 The Interface looks like
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](Screenshot.png)
   
