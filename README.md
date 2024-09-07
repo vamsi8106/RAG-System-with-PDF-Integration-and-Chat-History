@@ -18,7 +18,7 @@ This project relies on several Python libraries, which are listed in the `requir
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vamsi8106/RAG-System-with-PDF-Integration-and-Chat-History.git
 2. **Create and Activate a Conda Environment**
 
    ```bash
