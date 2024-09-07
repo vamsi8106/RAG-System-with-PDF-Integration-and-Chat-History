@@ -1,0 +1,16 @@
+langchain_chroma
+pandas
+langchain-groq
+duckduckgo_search==5.3.1b1
+pymupdf
+huggingface_hub
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
